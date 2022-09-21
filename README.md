@@ -1,1 +1,1 @@
-# -goit-nodejs-hw-01-CLI
+# goit-nodejs-hw-01-CLI
